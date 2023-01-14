@@ -1,6 +1,5 @@
 const searchFun = () => {
     const searchBox = document.getElementById('search-items').value.toUpperCase();
-
     const storeItems = document.getElementById('product-list');
     const product = document.querySelectorAll('.product');
     const productName = document.getElementsByTagName("h2");
@@ -18,5 +17,7 @@ const searchFun = () => {
             }
         }
     }
+    
                 
 }
+
