@@ -1,2 +1,2 @@
 # store150
-https://uttampatra21.github.io/store150/
+# link: https://uttampatra21.github.io/store150/
